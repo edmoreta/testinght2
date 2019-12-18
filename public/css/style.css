@@ -475,6 +475,19 @@ div#preloader {
   3. About Area
 --------------------------------*/
 
+.apps {
+  /* position: absolute; */
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
 .about-area {
   background-color: #f9f9f9;
 }
@@ -510,6 +523,9 @@ div#preloader {
   font-size: 36px;
   line-height: 36px;
   margin-bottom: 20px;
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+  height: 20%;
+  width: 20%;
 }
 
 .section-headline.services-head>h2 {

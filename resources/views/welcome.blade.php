@@ -119,13 +119,13 @@
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
       <div id="ensign-nivoslider" class="slides">
-        <img src="img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
-        <img src="img/slider/slider2.jpg" alt="" title="#slider-direction-2" />
-        <img src="img/slider/slider3.jpg" alt="" title="#slider-direction-3" />
+        <img src="img/slider/slider1.png" alt="" title="#slider-direction-1" />
+        <img src="img/slider/slider2.png" alt="" title="#slider-direction-2" />
+        <img src="img/slider/slider3.png" alt="" title="#slider-direction-3" />
       </div>
 
       <!-- direction 1 -->
-      <div id="slider-direction-1" class="slider-direction slider-one">
+      {{-- <div id="slider-direction-1" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -140,17 +140,17 @@
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
-                  <a class="ready-btn page-scroll" href="#about">Learn More</a>
+                  <a class="ready-btn right-btn page-scroll" href="#services">Servicios</a>
+                  <a class="ready-btn page-scroll" href="#about">Aplicaciones</a>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
+      </div> --}}
 
       <!-- direction 2 -->
-      <div id="slider-direction-2" class="slider-direction slider-two">
+      {{-- <div id="slider-direction-2" class="slider-direction slider-two">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -172,10 +172,10 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> --}}
 
       <!-- direction 3 -->
-      <div id="slider-direction-3" class="slider-direction slider-two">
+      {{-- <div id="slider-direction-3" class="slider-direction slider-two">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -197,14 +197,21 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> --}}
     </div>
   </div>
   <!-- End Slider Area -->
 
 <!-- Start About area -->
-<div id="about" class="about-area area-padding">
+<div id="about" class="apps about-area area-padding">  
     <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="section-headline text-center">
+                <h2>Aplicaciones</h2>
+              </div>
+            </div>
+          </div>
         <div class="row">
             <div class="col-lg-4 col-md-6">
               <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxicliente&hl=es_EC">
@@ -244,7 +251,7 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>About eBusiness</h2>
+            <h2>Servicios</h2>
           </div>
         </div>
       </div>
@@ -253,8 +260,8 @@
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="well-left">
             <div class="single-well">
-              <a href="#">
-								  <img src="img/about/1.jpg" alt="">
+              <a href="">
+								  <img src="img/about/1.png" alt="">
 								</a>
             </div>
           </div>
@@ -263,28 +270,34 @@
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="well-middle">
             <div class="single-well">
-              <a href="#">
-                <h4 class="sec-head">project Maintenance</h4>
+              <a href="">
+                <h4 class="sec-head">Sistema de control de flota y despacho de carreras</h4>
               </a>
-              <p>
+              {{-- <p>
                 Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
-              </p>
+              </p> --}}
               <ul>
                 <li>
-                  <i class="fa fa-check"></i> Interior design Package
+                  <i class="fa fa-check"></i> Petición de taxi
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Building House
+                  <i class="fa fa-check"></i> Petición de pedidos
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Reparing of Residentail Roof
+                  <i class="fa fa-check"></i> Historial de carreras
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Renovaion of Commercial Office
+                  <i class="fa fa-check"></i> Calificación al conductor y el taxi
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Make Quality Products
+                  <i class="fa fa-check"></i> Compartir recorrido en el taxi
                 </li>
+                <li>
+                    <i class="fa fa-check"></i> Direcciones favoritas
+                  </li>
+                  <li>
+                      <i class="fa fa-check"></i> Botón de pánico con contactos de emergencia
+                    </li>
               </ul>
             </div>
           </div>
@@ -301,74 +314,74 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline services-head text-center">
-            <h2>Servicios</h2>
+            <h2>Funcionalidades</h2>
           </div>
         </div>
       </div>
       <div class="row text-center">
         <div class="services-contents">
           <!-- Start Left services -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="about-move">
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i class="fa fa-code"></i>
+											<i ><img src="img/svg/1.jpg" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>Expert Coder</h4>
-                  <p>
+                  <h4>Control de flota</h4>
+                  {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
+                  </p> --}}
                 </div>
               </div>
               <!-- end about-details -->
             </div>
           </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="about-move">
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i class="fa fa-camera-retro"></i>
+											<i ><img src="img/svg/2.jpg" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>Creative Designer</h4>
-                  <p>
+                  <h4>Despacho de carreras</h4>
+                  {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
+                  </p> --}}
                 </div>
               </div>
               <!-- end about-details -->
             </div>
           </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="col-md-3 col-sm-3 col-xs-12">
             <!-- end col-md-4 -->
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i class="fa fa-wordpress"></i>
+											<i ><img src="img/svg/3.jpg" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>Wordpress Developer</h4>
-                  <p>
+                  <h4>Mapas Geo-referenciados</h4>
+                  {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
+                  </p> --}}
                 </div>
               </div>
               <!-- end about-details -->
             </div>
           </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="col-md-3 col-sm-3 col-xs-12">
             <!-- end col-md-4 -->
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i class="fa fa-camera-retro"></i>
+											<i ><img src="img/svg/4.jpg" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>Social Marketer </h4>
-                  <p>
+                  <h4>Reportes estadísticos</h4>
+                  {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
+                  </p> --}}
                 </div>
               </div>
               <!-- end about-details -->
@@ -381,12 +394,12 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i class="fa fa-bar-chart"></i>
+											<i ><img src="img/svg/5.jpg" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>Seo Expart</h4>
-                  <p>
+                  <h4>Alertas de auxilio comunitaria</h4>
+                  {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
+                  </p> --}}
                 </div>
               </div>
               <!-- end about-details -->
@@ -399,17 +412,34 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i class="fa fa-ticket"></i>
+											<i ><img src="img/svg/6.jpg" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>24/7 Support</h4>
-                  <p>
+                  <h4>Alertas de zonas peligrosas</h4>
+                  {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
+                  </p> --}}
                 </div>
               </div>
               <!-- end about-details -->
             </div>
           </div>
+          <div class="col-md-4 col-sm-4 col-xs-12">
+              <!-- end col-md-4 -->
+              <div class=" about-move">
+                <div class="services-details">
+                  <div class="single-services">
+                    <a class="services-icon" href="#">
+                        <i ><img src="img/svg/7.jpg" alt="img" class="img-fluid" /></i>
+                      </a>
+                    <h4>Alertas de zonas peligrosas</h4>
+                    {{-- <p>
+                      will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                    </p> --}}
+                  </div>
+                </div>
+                <!-- end about-details -->
+              </div>
+            </div>
         </div>
       </div>
     </div>
