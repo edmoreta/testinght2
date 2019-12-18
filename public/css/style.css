@@ -1064,6 +1064,15 @@ div#preloader {
   text-transform: uppercase;
 }
 
+.work-right-text h6 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 34px;
+  text-transform: uppercase;
+}
+
+
 .work-right-text .sus-btn {
   margin-left: 0;
   margin-top: 20px;

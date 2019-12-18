@@ -458,7 +458,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">clientes por App</h3>
                 </div>
               </div>
@@ -468,7 +468,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">clientes por CallCenter</h3>
                 </div>
               </div>
@@ -478,7 +478,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">peticiones hasta la fecha</h3>
                 </div>
               </div>
@@ -488,7 +488,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">peticiones al día</h3>
                 </div>
               </div>
@@ -507,7 +507,7 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>Faq Question</h2>
+            <h2>Acerca de nosotros</h2>
           </div>
         </div>
       </div>
@@ -520,14 +520,14 @@
                 <div class="panel-heading">
                   <h4 class="check-title">
 											<a data-toggle="collapse" class="active" data-parent="#accordion" href="#check1">
-                                                <span class="acc-icons"></span>Consectetur adipisicing elit.
+                        <span class="acc-icons"></span>Misión
 											</a>
 										</h4>
                 </div>
                 <div id="check1" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero
+                        HyperMovilidad es una compañía especializada en desarrollar tecnología telemática y nuevos modelos de negocio a través del Internet of Things (IoT) para la industria del transporte, seguridad, logística, seguros, Fintech entre otros
                     </p>
                   </div>
                 </div>
@@ -538,55 +538,25 @@
                 <div class="panel-heading">
                   <h4 class="check-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                                                <span class="acc-icons"></span> Dolore magnam quidem repellat.
+                        <span class="acc-icons"></span> Visión
 											</a>
 										</h4>
                 </div>
                 <div id="check2" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero aperiam sint nulla beatae eos.
+                        HyperMovilidad se proyecta a convertirse 
+                        en una compañía reconocida a nivel nacional 
+                        como símbolo de innovación, excelencia, 
+                        calidad y eficiencia en  ofrecer soluciones 
+                        tecnológicas a nuestros clientes.
+                        
                     </p>
                   </div>
                 </div>
               </div>
               <!-- End Panel Default -->
-              <!-- Panel Default -->
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="check-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#check3">
-                                                <span class="acc-icons"></span>Redug Lefes dolor sit.
-											</a>
-										</h4>
-                </div>
-                <div id="check3" class="panel-collapse collapse ">
-                  <div class="panel-body">
-                    <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero aperiam sint nulla beatae eos.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- End Panel Default -->
-              <!-- Panel Default -->
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="check-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#check4">
-                                                <span class="acc-icons"></span>Maiores alias accusamus
-											</a>
-										</h4>
-                </div>
-                <div id="check4" class="panel-collapse collapse">
-                  <div class="panel-body">
-                    <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero aperiam sint nulla beatae eos.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- End Panel Default -->
+              
             </div>
           </div>
         </div>
@@ -595,13 +565,13 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
               <li class="active">
-                <a href="#p-view-1" role="tab" data-toggle="tab">Project</a>
+                <a href="#p-view-1" role="tab" data-toggle="tab">HyperTaxi</a>
               </li>
               <li>
-                <a href="#p-view-2" role="tab" data-toggle="tab">Planning</a>
+                <a href="#p-view-2" role="tab" data-toggle="tab">Conductor</a>
               </li>
               <li>
-                <a href="#p-view-3" role="tab" data-toggle="tab">Success</a>
+                <a href="#p-view-3" role="tab" data-toggle="tab">Propietario</a>
               </li>
             </ul>
           </div>
@@ -609,39 +579,56 @@
             <div class="tab-pane active" id="p-view-1">
               <div class="tab-inner">
                 <div class="event-content head-team">
-                  <h4>Project</h4>
+                  <h4>HyperTaxi</h4>
                   <p>
-                    Redug Lares dolor sit amet, consectetur adipisicing elit. Animi vero excepturi magnam ducimus adipisci voluptas, praesentium maxime necessitatibus in dolor dolores unde ab, libero quo. Aut, laborum sequi.
-                  </p>
-                  <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis placeat.
-                  </p>
+                      <ul>
+                        <li>Petición de taxi</li>
+                        <li>Petición de pedidos</li>
+                        <li>Historial de carreras</li>
+                        <li>Calificación al conductor y el taxi</li>
+                        <li>Compartir recorrido en el taxi</li>
+                        <li>Direcciones favoritas</li>
+                        <li>Botón de pánico con contactos de emergencia</li>
+                      </ul>              
+                  </p>                 
                 </div>
               </div>
             </div>
             <div class="tab-pane" id="p-view-2">
               <div class="tab-inner">
                 <div class="event-content head-team">
-                  <h4>Planning</h4>
+                  <h4>HyperTaxi Conductor</h4>
                   <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis.
-                  </p>
-                  <p>
-                    Redug Lares dolor sit amet, consectetur adipisicing elit. Animi vero excepturi magnam ducimus adipisci voluptas, praesentium maxime necessitatibus in dolor dolores unde ab, libero quo. Aut.
-                  </p>
+                      <ul>
+                        <li>Atención de peticiones de taxi</li>
+                        <li>Auto despacho</li>
+                        <li>Chat con el cliente</li>
+                        <li>Historial de carreras</li>
+                        <li>Calificación de conductor y el taxi</li>
+                        <li>Calificar al cliente</li>
+                        <li>Alertas</li>
+                      </ul>              
+                  </p>  
+                 
                 </div>
               </div>
             </div>
             <div class="tab-pane" id="p-view-3">
               <div class="tab-inner">
                 <div class="event-content head-team">
-                  <h4>Success</h4>
+                  <h4>HyperTaxi Propietario</h4>
                   <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis placeat.
-                  </p>
-                  <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis.
-                  </p>
+                      <ul>
+                          <li>Ubicación del taxi</li>
+                          <li>Reporte de recorrido</li>
+                          <li>Historial de carreras</li>
+                          
+                          <li>Historial de carreras</li>
+                          <li>Calificación de conductor y el taxi</li>
+                          <li>Calificar al cliente</li>
+                          <li>Alertas</li>
+                        </ul>
+                  </p>                
                 </div>
               </div>
             </div>
@@ -654,7 +641,7 @@
   <!-- End Faq Area -->
 
   <!-- Start Wellcome Area -->
-  <div class="wellcome-area">
+  {{-- <div class="wellcome-area">
     <div class="well-bg">
       <div class="test-overly"></div>
       <div class="container">
@@ -679,7 +666,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!-- End Wellcome Area -->
 
   <!-- Start team Area -->
@@ -833,7 +820,7 @@
   <!-- End Team Area -->
 
   <!-- Start reviews Area -->
-  <div class="reviews-area hidden-xs">
+  {{-- <div class="reviews-area hidden-xs">
     <div class="work-us">
       <div class="work-left-text">
         <a href="#">
@@ -841,16 +828,20 @@
 					</a>
       </div>
       <div class="work-right-text text-center">
-        <h2>working with us</h2>
-        <h5>Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.</h5>
+        <h2>Visión</h2>
+        <h6>HYPERMOVILIDAD se proyecta a convertirse 
+            en una compañía reconocida a nivel nacional 
+            como símbolo de innovación, excelencia, 
+            calidad y eficiencia en  ofrecer soluciones 
+            tecnológicas a nuestros clientes.</h6>
         <a href="#contact" class="ready-btn">Contact us</a>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!-- End reviews Area -->
 
   <!-- Start portfolio Area -->
-  <div id="portfolio" class="portfolio-area area-padding fix">
+  {{-- <div id="portfolio" class="portfolio-area area-padding fix">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -987,10 +978,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!-- awesome-portfolio end -->
   <!-- start pricing area -->
-  <div id="pricing" class="pricing-area area-padding">
+  {{-- <div id="pricing" class="pricing-area area-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -1051,10 +1042,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!-- End pricing table area -->
   <!-- Start Testimonials -->
-  <div class="testimonials-area">
+  {{-- <div class="testimonials-area">
     <div class="testi-inner area-padding">
       <div class="testi-overly"></div>
       <div class="container ">
@@ -1100,7 +1091,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!-- End Testimonials -->
   <!-- Start Blog Area -->
   <div id="blog" class="blog-area">
@@ -1221,8 +1212,8 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
           <div class="suscribe-text text-center">
-            <h3>Welcome to our eBusiness company</h3>
-            <a class="sus-btn" href="#">Get A quate</a>
+            <h3>Bienvenido a HyperMovilidad</h3>
+            <a class="sus-btn" href="#">Contáctanos</a>
           </div>
         </div>
       </div>
@@ -1237,7 +1228,7 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
-              <h2>Contact us</h2>
+              <h2>Contáctanos</h2>
             </div>
           </div>
         </div>
@@ -1248,8 +1239,8 @@
               <div class="single-icon">
                 <i class="fa fa-mobile"></i>
                 <p>
-                  Call: +1 5589 55488 55<br>
-                  <span>Monday-Friday (9am-5pm)</span>
+                  Telf: +593 98 465 5141<br>
+                  <span>Lunes-Sábado (7am-10pm)</span>
                 </p>
               </div>
             </div>
@@ -1260,8 +1251,8 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  Email: info@example.com<br>
-                  <span>Web: www.example.com</span>
+                  Email: info@hypermovilidad.com<br>
+                  <span>Web: www.hypermovilidad.com</span>
                 </p>
               </div>
             </div>
@@ -1272,8 +1263,8 @@
               <div class="single-icon">
                 <i class="fa fa-map-marker"></i>
                 <p>
-                  Location: A108 Adam Street<br>
-                  <span>NY 535022, USA</span>
+                  Dirección: Simón Bolivar 817 y Pedro Moncayo<br>
+                  <span>Ibarra, Ecuador</span>
                 </p>
               </div>
             </div>
@@ -1284,7 +1275,8 @@
           <!-- Start Google Map -->
           <div class="col-md-6 col-sm-6 col-xs-12">
             <!-- Start Map -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+            {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe> --}}
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.872172124128!2d-78.11979324208006!3d0.3489051999363715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2a3cb62ff16f25%3A0xb3a4efa09335367c!2sSim%C3%B3n%20Bol%C3%ADvar%208-11%2C%20Ibarra!5e0!3m2!1ses-419!2sec!4v1576710812921!5m2!1ses-419!2sec" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             <!-- End Map -->
           </div>
           <!-- End Google Map -->
@@ -1292,26 +1284,26 @@
           <!-- Start  contact -->
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="form contact-form">
-              <div id="sendmessage">Your message has been sent. Thank you!</div>
+              <div id="sendmessage">Tu mensaje ha sido enviado. Gracias!</div>
               <div id="errormessage"></div>
               <form action="" method="post" role="form" class="contactForm">
                 <div class="form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" data-rule="email" data-msg="Please enter a valid email" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
                   <div class="validation"></div>
                 </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
+                <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
               </form>
             </div>
           </div>
@@ -1330,25 +1322,22 @@
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
-                <div class="footer-logo">
-                  <h2><span>e</span>Business</h2>
+                <div class="footer-logo">                  
+                  <h2><span style="color: #1E3C55">Hyper</span><span>Taxi</span></h2>
                 </div>
 
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+                <p>Sistema de control de flota y despacho de carreras</p>
                 <div class="footer-icons">
                   <ul>
                     <li>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
+                      <a href="https://www.facebook.com/vecitaxi" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fa fa-twitter"></i></a>
+                      <a href="https://twitter.com/vecitaxi" target="_blank"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fa fa-google"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </li>
+                      <a href="https://www.instagram.com/vecitaxi/" target="_blank"><i class="fa fa-instagram"></i></a>
+                    </li>                    
                   </ul>
                 </div>
               </div>
@@ -1358,14 +1347,14 @@
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
-                <h4>information</h4>
+                <h4>Información</h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+                    Simón Bolivar 817 y Pedro Moncayo. Ibarra, Ecuador
                 </p>
                 <div class="footer-contacts">
-                  <p><span>Tel:</span> +123 456 789</p>
-                  <p><span>Email:</span> contact@example.com</p>
-                  <p><span>Working Hours:</span> 9am-5pm</p>
+                  <p><span>Telf:</span> +593 98 465 5141</p>
+                  <p><span>Email:</span> info@hypermovilidad.com</p>
+                  <p><span>Horario:</span> Lunes a Sábado 7am-10pm</p>
                 </div>
               </div>
             </div>
@@ -1394,19 +1383,9 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
-              <p>
-                &copy; Copyright <strong>eBusiness</strong>. All Rights Reserved
-              </p>
-            </div>
-            <div class="credits">
-              <!--
-                All the links in the footer should remain intact.
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
-              -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-            </div>
+                <p>&copy; 2019 Hypermovilidad Cia. Ltda. Todos los derechos reservados.
+                  </p>
+            </div>            
           </div>
         </div>
       </div>
