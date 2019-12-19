@@ -8,7 +8,7 @@
   <meta content="" name="description">
 
   <!-- Favicons -->
-  <link href="img/1-01.png" rel="icon">
+  <link href="img/1-01z.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -65,7 +65,7 @@
 									</button>
                 <!-- Brand -->
                 <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  <h1><span style="color: #fff">Hyper</span><span>Taxi</span></h1>
+                  <h1><span style="color: #2F5483">Hyper</span><span>Taxi</span></h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo.png" alt="" title=""> -->
 								</a>
@@ -77,16 +77,16 @@
                     <a class="page-scroll" href="#home">Inicio</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll" href="#about">Aplicaciones</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#services">Services</a>
+                    <a class="page-scroll" href="#services">Servicios</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#team">Team</a>
+                    <a class="page-scroll" href="#funcionalidades">Funcionalidades</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    <a class="page-scroll" href="#acerca">Acerca de</a>
                   </li>
 
                   <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Drop Down<span class="caret"></span></a>
@@ -246,7 +246,7 @@
   <!-- End About area -->
 
   <!-- Start About area -->
-  <div id="about" class="about-area area-padding">
+  <div id="services" class="about-area area-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -309,7 +309,7 @@
   <!-- End About area -->
 
   <!-- Start Service area -->
-  <div id="services" class="services-area area-padding">
+  <div id="funcionalidades" class="services-area area-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -326,7 +326,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i ><img src="img/svg/1.jpg" alt="img" class="img-fluid" /></i>
+											<i ><img src="img/svg/1.png" alt="img" class="img-fluid" /></i>
 										</a>
                   <h4>Control de flota</h4>
                   {{-- <p>
@@ -342,7 +342,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i ><img src="img/svg/2.jpg" alt="img" class="img-fluid" /></i>
+											<i ><img src="img/svg/2.png" alt="img" class="img-fluid" /></i>
 										</a>
                   <h4>Despacho de carreras</h4>
                   {{-- <p>
@@ -359,7 +359,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i ><img src="img/svg/3.jpg" alt="img" class="img-fluid" /></i>
+											<i ><img src="img/svg/3.png" alt="img" class="img-fluid" /></i>
 										</a>
                   <h4>Mapas Geo-referenciados</h4>
                   {{-- <p>
@@ -376,7 +376,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i ><img src="img/svg/4.jpg" alt="img" class="img-fluid" /></i>
+											<i ><img src="img/svg/4.png" alt="img" class="img-fluid" /></i>
 										</a>
                   <h4>Reportes estadísticos</h4>
                   {{-- <p>
@@ -394,7 +394,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i ><img src="img/svg/5.jpg" alt="img" class="img-fluid" /></i>
+											<i ><img src="img/svg/5.png" alt="img" class="img-fluid" /></i>
 										</a>
                   <h4>Alertas de auxilio comunitaria</h4>
                   {{-- <p>
@@ -412,7 +412,7 @@
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
-											<i ><img src="img/svg/6.jpg" alt="img" class="img-fluid" /></i>
+											<i ><img src="img/svg/6.png" alt="img" class="img-fluid" /></i>
 										</a>
                   <h4>Alertas de zonas peligrosas</h4>
                   {{-- <p>
@@ -429,7 +429,7 @@
                 <div class="services-details">
                   <div class="single-services">
                     <a class="services-icon" href="#">
-                        <i ><img src="img/svg/7.jpg" alt="img" class="img-fluid" /></i>
+                        <img src="img/svg/7.png" alt="img" class="img-fluid" />
                       </a>
                     <h4>Alertas de zonas peligrosas</h4>
                     {{-- <p>
@@ -458,7 +458,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">clientes por App</h3>
                 </div>
               </div>
@@ -468,7 +468,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">clientes por CallCenter</h3>
                 </div>
               </div>
@@ -478,7 +478,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">peticiones hasta la fecha</h3>
                 </div>
               </div>
@@ -488,7 +488,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#FFC909" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">peticiones al día</h3>
                 </div>
               </div>
@@ -502,7 +502,7 @@
   <!-- our-skill-area end -->
 
   <!-- Faq area start -->
-  <div class="faq-area area-padding">
+  <div id="acerca" class="faq-area area-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -1323,7 +1323,7 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">                  
-                  <h2><span style="color: #1E3C55">Hyper</span><span>Taxi</span></h2>
+                  <h2><span style="color: #2F5483">Hyper</span><span>Taxi</span></h2>
                 </div>
 
                 <p>Sistema de control de flota y despacho de carreras</p>
