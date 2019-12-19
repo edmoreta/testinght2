@@ -87,20 +87,16 @@
                   </li>
                   <li>
                     <a class="page-scroll" href="#acerca">Acerca de</a>
+                  </li>                                    
+                  <li>
+                    <a class="page-scroll" href="#contact">Contáctanos</a>
                   </li>
-
-                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Drop Down<span class="caret"></span></a>
+                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Web<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
-                      <li><a href=# >Drop Down 1</a></li>
-                      <li><a href=# >Drop Down 2</a></li>
+                      <li><a href="http://hypertaxi.hypermovilidad.com/publico/cliente">Cliente</a></li>
+                      <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario">Propietario</a></li>
+                      <li><a href="http://hypertaxi.hypermovilidad.com/tunel/resuelve">Gestión</a></li>
                     </ul> 
-                  </li>
-
-                  <li>
-                    <a class="page-scroll" href="#blog">Blog</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
                   </li>
                 </ul>
               </div>
