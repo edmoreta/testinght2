@@ -463,7 +463,7 @@
                   <a class="services-icon" href="#">
 											<i ><img src="img/svg/5.png" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>Alertas de auxilio comunitaria</h4>
+                  <h4>Alertas de radares</h4>
                   {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p> --}}
@@ -481,7 +481,7 @@
                   <a class="services-icon" href="#">
 											<i ><img src="img/svg/6.png" alt="img" class="img-fluid" /></i>
 										</a>
-                  <h4>Alertas de zonas peligrosas</h4>
+                  <h4>Alertas de auxilio comunitaria</h4>
                   {{-- <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
                   </p> --}}
