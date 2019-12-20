@@ -33,6 +33,7 @@
 
   <!-- Responsive Stylesheet File -->
   <link href="css/responsive.css" rel="stylesheet">
+  <script async data-id="25301" src="https://cdn.widgetwhats.com/script.min.js"></script>
 
   <!-- =======================================================
     Theme Name: eBusiness
@@ -65,7 +66,7 @@
 									</button>
                 <!-- Brand -->
                 <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  <h1><span style="color: #2F5483">Hyper</span><span>Taxi</span></h1>
+                  <h1><span style="color: #fff">Hyper</span><span>Movilidad</span></h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo.png" alt="" title=""> -->
 								</a>
@@ -197,6 +198,76 @@
     </div>
   </div>
   <!-- End Slider Area -->
+
+  <!-- Start Suscrive Area -->
+  <div class="suscribe-area">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
+          <div class="suscribe-text text-center">
+            <h3>Bienvenido a HyperMovilidad</h3>
+            <a class="sus-btn" href="#">Contáctanos</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Suscrive Area -->
+
+  <!-- our-skill-area start -->
+  <div class="our-skill-area fix hidden-sm">
+    <div class="test-overly"></div>
+    <div class="skill-bg area-padding-2">
+      <div class="container">
+        <!-- section-heading end -->
+        <div class="row">
+          <div class="skill-text">
+            <!-- single-skill start -->
+            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
+              <div class="single-skill">
+                <div class="progress-circular">
+                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <h3 class="progress-h4">clientes por App</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
+              <div class="single-skill">
+                <div class="progress-circular">
+                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <h3 class="progress-h4">clientes por CallCenter</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
+              <div class="single-skill">
+                <div class="progress-circular">
+                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <h3 class="progress-h4">peticiones hasta la fecha</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
+              <div class="single-skill">
+                <div class="progress-circular">
+                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <h3 class="progress-h4">peticiones al día</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- our-skill-area end -->
 
 <!-- Start About area -->
 <div id="about" class="apps about-area area-padding">  
@@ -442,60 +513,7 @@
   </div>
   <!-- End Service area -->
 
-  <!-- our-skill-area start -->
-  <div class="our-skill-area fix hidden-sm">
-    <div class="test-overly"></div>
-    <div class="skill-bg area-padding-2">
-      <div class="container">
-        <!-- section-heading end -->
-        <div class="row">
-          <div class="skill-text">
-            <!-- single-skill start -->
-            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
-              <div class="single-skill">
-                <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">clientes por App</h3>
-                </div>
-              </div>
-            </div>
-            <!-- single-skill end -->
-            <!-- single-skill start -->
-            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
-              <div class="single-skill">
-                <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">clientes por CallCenter</h3>
-                </div>
-              </div>
-            </div>
-            <!-- single-skill end -->
-            <!-- single-skill start -->
-            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
-              <div class="single-skill">
-                <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">peticiones hasta la fecha</h3>
-                </div>
-              </div>
-            </div>
-            <!-- single-skill end -->
-            <!-- single-skill start -->
-            <div class="col-xs-12 col-sm-3 col-md-3 text-center">
-              <div class="single-skill">
-                <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
-                  <h3 class="progress-h4">peticiones al día</h3>
-                </div>
-              </div>
-            </div>
-            <!-- single-skill end -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- our-skill-area end -->
+
 
   <!-- Faq area start -->
   <div id="acerca" class="faq-area area-padding">
@@ -1202,20 +1220,9 @@
     </div>
   </div>
   <!-- End Blog -->
-  <!-- Start Suscrive Area -->
-  <div class="suscribe-area">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
-          <div class="suscribe-text text-center">
-            <h3>Bienvenido a HyperMovilidad</h3>
-            <a class="sus-btn" href="#">Contáctanos</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End Suscrive Area -->
+
+
+
   <!-- Start contact Area -->
   <div id="contact" class="contact-area">
     <div class="contact-inner area-padding">
