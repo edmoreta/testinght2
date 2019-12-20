@@ -269,8 +269,8 @@
   </div>
   <!-- our-skill-area end -->
 
-<!-- Start About area -->
-<div id="about" class="apps about-area area-padding">  
+  <!-- Start About area -->
+  <div id="about" class="apps about-area area-padding">  
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -311,6 +311,153 @@
     </div>
   </div>
   <!-- End About area -->
+
+<!-- Faq area start -->
+<div id="acerca" class="faq-area area-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="section-headline text-center">
+          {{-- <h2>Acerca de nosotros</h2> --}}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="faq-details">
+          <div class="panel-group" id="accordion">
+            <!-- Panel Default -->
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="check-title">
+                    <a data-toggle="collapse" class="active" data-parent="#accordion" href="#check1">
+                      <span class="acc-icons"></span>Misión
+                    </a>
+                  </h4>
+              </div>
+              <div id="check1" class="panel-collapse collapse in">
+                <div class="panel-body">
+                  <p>
+                      HyperMovilidad es una compañía especializada en desarrollar tecnología telemática y nuevos modelos de negocio a través del Internet of Things (IoT) para la industria del transporte, seguridad, logística, seguros, Fintech entre otros
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- End Panel Default -->
+            <!-- Panel Default -->
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="check-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#check2">
+                      <span class="acc-icons"></span> Visión
+                    </a>
+                  </h4>
+              </div>
+              <div id="check2" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>
+                      HyperMovilidad se proyecta a convertirse 
+                      en una compañía reconocida a nivel nacional 
+                      como símbolo de innovación, excelencia, 
+                      calidad y eficiencia en  ofrecer soluciones 
+                      tecnológicas a nuestros clientes.
+                      
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- End Panel Default -->
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="tab-menu">
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist">
+            <li class="active">
+              <a href="#p-view-1" role="tab" data-toggle="tab">HyperTaxi</a>
+            </li>
+            <li>
+              <a href="#p-view-2" role="tab" data-toggle="tab">HyperCar</a>
+            </li>
+            <li>
+              <a href="#p-view-3" role="tab" data-toggle="tab">HyperBus</a>
+            </li>
+          </ul>
+        </div>
+        <div class="tab-content">
+          <div class="tab-pane active" id="p-view-1">
+            <div class="tab-inner">
+              <div class="event-content head-team">
+                <h4>HyperTaxi</h4>
+                <p>
+                    <ul>
+                      <li>Petición de taxi</li>
+                      <li>Petición de pedidos</li>
+                      <li>Historial de carreras</li>
+                      <li>Calificación al conductor y el taxi</li>
+                      <li>Compartir recorrido en el taxi</li>
+                      <li>Direcciones favoritas</li>
+                      <li>Botón de pánico con contactos de emergencia</li>
+                    </ul>              
+                </p>                 
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="p-view-2">
+            <div class="tab-inner">
+              <div class="event-content head-team">
+                <h4>HyperTaxi Conductor</h4>
+                <p>
+                    <ul>
+                      <li>Atención de peticiones de taxi</li>
+                      <li>Auto despacho</li>
+                      <li>Chat con el cliente</li>
+                      <li>Historial de carreras</li>
+                      <li>Calificación de conductor y el taxi</li>
+                      <li>Calificar al cliente</li>
+                      <li>Alertas</li>
+                    </ul>              
+                </p>  
+               
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="p-view-3">
+            <div class="tab-inner">
+              <div class="event-content head-team">
+                <h4>HyperTaxi Propietario</h4>
+                <p>
+                    <ul>
+                        <li>Ubicación del taxi</li>
+                        <li>Reporte de recorrido</li>
+                        <li>Historial de carreras</li>
+                        
+                        <li>Historial de carreras</li>
+                        <li>Calificación de conductor y el taxi</li>
+                        <li>Calificar al cliente</li>
+                        <li>Alertas</li>
+                      </ul>
+                </p>                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end Row -->
+  </div>
+</div>
+<!-- End Faq Area -->
+
+  <div class="a2a_kit a2a_kit_size_64 a2a_floating_style a2a_default_style" style="bottom:100px; right:10px;">
+    <a class="" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxicliente&hl=es_EC">
+      <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-store-app-logo-gets-a-slight-redesign-png-19.png" border="0" alt="Facebook" width="27" height="27">
+    </a>  
+  </div>
+
+<script async src="https://static.addtoany.com/menu/page.js"></script>
 
   <!-- Start About area -->
   <div id="services" class="about-area area-padding">
@@ -512,147 +659,6 @@
     </div>
   </div>
   <!-- End Service area -->
-
-
-
-  <!-- Faq area start -->
-  <div id="acerca" class="faq-area area-padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-          <div class="section-headline text-center">
-            <h2>Acerca de nosotros</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="faq-details">
-            <div class="panel-group" id="accordion">
-              <!-- Panel Default -->
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="check-title">
-											<a data-toggle="collapse" class="active" data-parent="#accordion" href="#check1">
-                        <span class="acc-icons"></span>Misión
-											</a>
-										</h4>
-                </div>
-                <div id="check1" class="panel-collapse collapse in">
-                  <div class="panel-body">
-                    <p>
-                        HyperMovilidad es una compañía especializada en desarrollar tecnología telemática y nuevos modelos de negocio a través del Internet of Things (IoT) para la industria del transporte, seguridad, logística, seguros, Fintech entre otros
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- End Panel Default -->
-              <!-- Panel Default -->
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="check-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                        <span class="acc-icons"></span> Visión
-											</a>
-										</h4>
-                </div>
-                <div id="check2" class="panel-collapse collapse">
-                  <div class="panel-body">
-                    <p>
-                        HyperMovilidad se proyecta a convertirse 
-                        en una compañía reconocida a nivel nacional 
-                        como símbolo de innovación, excelencia, 
-                        calidad y eficiencia en  ofrecer soluciones 
-                        tecnológicas a nuestros clientes.
-                        
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- End Panel Default -->
-              
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="tab-menu">
-            <!-- Nav tabs -->
-            <ul class="nav nav-tabs" role="tablist">
-              <li class="active">
-                <a href="#p-view-1" role="tab" data-toggle="tab">HyperTaxi</a>
-              </li>
-              <li>
-                <a href="#p-view-2" role="tab" data-toggle="tab">Conductor</a>
-              </li>
-              <li>
-                <a href="#p-view-3" role="tab" data-toggle="tab">Propietario</a>
-              </li>
-            </ul>
-          </div>
-          <div class="tab-content">
-            <div class="tab-pane active" id="p-view-1">
-              <div class="tab-inner">
-                <div class="event-content head-team">
-                  <h4>HyperTaxi</h4>
-                  <p>
-                      <ul>
-                        <li>Petición de taxi</li>
-                        <li>Petición de pedidos</li>
-                        <li>Historial de carreras</li>
-                        <li>Calificación al conductor y el taxi</li>
-                        <li>Compartir recorrido en el taxi</li>
-                        <li>Direcciones favoritas</li>
-                        <li>Botón de pánico con contactos de emergencia</li>
-                      </ul>              
-                  </p>                 
-                </div>
-              </div>
-            </div>
-            <div class="tab-pane" id="p-view-2">
-              <div class="tab-inner">
-                <div class="event-content head-team">
-                  <h4>HyperTaxi Conductor</h4>
-                  <p>
-                      <ul>
-                        <li>Atención de peticiones de taxi</li>
-                        <li>Auto despacho</li>
-                        <li>Chat con el cliente</li>
-                        <li>Historial de carreras</li>
-                        <li>Calificación de conductor y el taxi</li>
-                        <li>Calificar al cliente</li>
-                        <li>Alertas</li>
-                      </ul>              
-                  </p>  
-                 
-                </div>
-              </div>
-            </div>
-            <div class="tab-pane" id="p-view-3">
-              <div class="tab-inner">
-                <div class="event-content head-team">
-                  <h4>HyperTaxi Propietario</h4>
-                  <p>
-                      <ul>
-                          <li>Ubicación del taxi</li>
-                          <li>Reporte de recorrido</li>
-                          <li>Historial de carreras</li>
-                          
-                          <li>Historial de carreras</li>
-                          <li>Calificación de conductor y el taxi</li>
-                          <li>Calificar al cliente</li>
-                          <li>Alertas</li>
-                        </ul>
-                  </p>                
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- end Row -->
-    </div>
-  </div>
-  <!-- End Faq Area -->
 
   <!-- Start Wellcome Area -->
   {{-- <div class="wellcome-area">
