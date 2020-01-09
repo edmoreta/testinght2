@@ -34,13 +34,8 @@
   <!-- Responsive Stylesheet File -->
   <link href="css/responsive.css" rel="stylesheet">
   <script async data-id="25301" src="https://cdn.widgetwhats.com/script.min.js"></script>
-
-  <!-- =======================================================
-    Theme Name: eBusiness
-    Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
+  <script type="text/javascript" src="https://counter1.wheredoyoucomefrom.ovh/private/counter.js?c=629g965qnwh53rc3e355l6k2m5q6u7yb&down=async" async>
+  </script>
 </head>
 
 <body data-spy="scroll" data-target="#navbar-example">
@@ -111,7 +106,7 @@
     <!-- header-area end -->
   </header>
   <!-- header end -->
-
+  
   <!-- Start Slider Area -->
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
@@ -213,7 +208,11 @@
     </div>
   </div>
   <!-- End Suscrive Area -->
-
+  <div id="sfc629g965qnwh53rc3e355l6k2m5q6u7yb"></div>
+  
+  <noscript><a href="https://www.freecounterstat.com" title="page view counter">
+    <img src="https://counter1.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=629g965qnwh53rc3e355l6k2m5q6u7yb" border="0" title="page view counter" alt="page view counter"></a>
+  </noscript>
   <!-- our-skill-area start -->
   <div class="our-skill-area fix hidden-sm">
     <div class="test-overly"></div>
