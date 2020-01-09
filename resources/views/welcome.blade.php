@@ -92,6 +92,13 @@
                       <li><a href="http://hypertaxi.hypermovilidad.com/tunel/resuelve">Gestión</a></li>
                     </ul> 
                   </li>
+                  <li>
+                      <center>
+                          <a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="">
+                          <img style="border: 0px solid; display: inline;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192">
+                          </a>                    
+                        </center>
+                  </li>
                 </ul>
               </div>
               <!-- navbar-collapse -->
@@ -206,8 +213,7 @@
     </div>
   </div>
   <!-- End Suscrive Area -->
-  <center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
-    <img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://boxindian.com/'>Crossfit camas</a></center>
+  
   <!-- our-skill-area start -->
   <div class="our-skill-area fix hidden-sm">
     <div class="test-overly"></div>
