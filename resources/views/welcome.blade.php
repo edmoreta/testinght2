@@ -91,7 +91,7 @@
                       <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario">Propietario</a></li>
                       <li><a href="http://hypertaxi.hypermovilidad.com/tunel/resuelve">Gestión</a></li>
                     </ul> 
-                  </li>                  
+                  </li>                                  
                 </ul>
               </div>
               <!-- navbar-collapse -->
@@ -219,7 +219,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="840" data-linecap="round" data-width="200" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">clientes por App</h3>
                 </div>
               </div>
@@ -229,7 +229,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="92313" data-linecap="round" data-width="200" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">clientes por CallCenter</h3>
                 </div>
               </div>
@@ -239,7 +239,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="353001" data-linecap="round" data-width="200" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">peticiones hasta la fecha</h3>
                 </div>
               </div>
@@ -249,7 +249,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="602" data-linecap="round" data-width="200" data-bgcolor="#fff" data-fgcolor="#ECC331 " data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">peticiones al día</h3>
                 </div>
               </div>
@@ -268,7 +268,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
               <h2>Visitas</h2>
-              <center><img style="border: 0px solid; display: inline;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></center>
+              <center><img style="border: 0px solid; display: inline;width:20%;height:10%;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></center>
             </div>
           </div>
         </div>                
@@ -294,6 +294,9 @@
                   class="rounded"
                 />
               </a>
+              <p>
+                  <h3>HyperTaxi</h3> <br> <h5>Slogan</h5><br> HyperMovilidad es una compañía especializada en desarrollar tecnología telemática y nuevos modelos de negocio a través del Internet of Things (IoT) para la industria del transporte, seguridad, logística, seguros, Fintech entre otros.
+              </p>
             </div>
             <div class="col-lg-4 col-md-6">
               <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxipropietario&hl=es_EC">
@@ -303,15 +306,21 @@
                   class="rounded"
                 />
               </a>
+              <p> 
+                <h3>HyperCar</h3><br><h5>Muevete inteligentemente</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad.Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
+              </p>
             </div>
             <div class="col-lg-4 col-md-6">
               <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxiconductor&hl=es_EC">
                 <img
-                  src="img/3-01.png"
+                  src="img/4-01.jpeg"
                   style="max-width: 55%; height: auto;"
                   class="rounded"
                 />
               </a>
+              <p> 
+                <h3>HyperBus</h3><br><h5>Slogan</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad.Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
+              </p>
             </div>
           </div>
     </div>
@@ -1324,6 +1333,57 @@
           </div>
           <!-- End Left contact -->
         </div>
+        <hr>
+        <div class="row">
+            <!-- Start contact icon column -->
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <div class="contact-icon text-center">
+                <div class="single-icon">
+                  <i class="fa fa-mobile"></i>
+                  <p>
+                    Telf: +593 98 923 4317<br>
+                    <span>Lunes-Sábado (7am-10pm)</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- Start contact icon column -->
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <div class="contact-icon text-center">
+                <div class="single-icon">
+                  <i class="fa fa-envelope-o"></i>
+                  <p>
+                    Email: info@hypermovilidad.com<br>
+                    <span>Web: www.hypermovilidad.com</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- Start contact icon column -->
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <div class="contact-icon text-center">
+                <div class="single-icon">
+                  <i class="fa fa-map-marker"></i>
+                  <p>
+                    Dirección: Joaquin Pinto E5-08 y Juan León Mera<br>
+                    <span>Quito, Ecuador</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+        
+        <div class="row">
+
+          <!-- Start Google Map -->
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <!-- Start Map -->
+            {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe> --}}
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d419.3753704515621!2d-78.49212012695452!3d-0.2025257612377077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sec!4v1578592441206!5m2!1ses-419!2sec" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <!-- End Map -->
+          </div>
+          <!-- End Google Map -->
+        </div>
       </div>
     </div>
   </div>
@@ -1398,7 +1458,7 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
-                <p>&copy; 2019 Hypermovilidad Cia. Ltda. Todos los derechos reservados.
+                <p>&copy; 2020 Hypermovilidad Cia. Ltda. Todos los derechos reservados.
                   </p>
             </div>            
           </div>
@@ -1426,6 +1486,9 @@
   <script src="contactform/contactform.js"></script>
 
   <script src="js/main.js"></script>
+
+  <!-- Código de instalación Cliengo para https://app-ht2.herokuapp.com/ --> 
+  <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5e176a09e4b06f5bfaf7b51c/5e176a0ae4b06f5bfaf7b51f.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
 </body>
 
 </html>
