@@ -91,14 +91,7 @@
                       <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario">Propietario</a></li>
                       <li><a href="http://hypertaxi.hypermovilidad.com/tunel/resuelve">Gestión</a></li>
                     </ul> 
-                  </li>
-                  <li>
-                      <center>
-                          <a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="">
-                          <img style="border: 0px solid; display: inline;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192">
-                          </a>                    
-                        </center>
-                  </li>
+                  </li>                  
                 </ul>
               </div>
               <!-- navbar-collapse -->
@@ -267,7 +260,20 @@
       </div>
     </div>
   </div>
-  <!-- our-skill-area end -->
+  <!-- our-skill-area end -->    
+  
+  <div id="about" class="apps about-area area-padding">  
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="section-headline text-center">
+              <h2>Visitas</h2>
+              <center><img style="border: 0px solid; display: inline;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></center>
+            </div>
+          </div>
+        </div>                
+    </div>
+  </div>
 
   <!-- Start About area -->
   <div id="about" class="apps about-area area-padding">  
