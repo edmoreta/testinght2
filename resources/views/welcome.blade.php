@@ -295,7 +295,19 @@
                 />
               </a>
               <p>
-                  <h3>HyperTaxi</h3> <br> <h5>Slogan</h5><br> HyperMovilidad es una compañía especializada en desarrollar tecnología telemática y nuevos modelos de negocio a través del Internet of Things (IoT) para la industria del transporte, seguridad, logística, seguros, Fintech entre otros.
+                <h5>Viaja diferente</h5><br> HyperMovilidad es una compañía especializada en desarrollar tecnología telemática y nuevos modelos de negocio a través del Internet of Things (IoT) para la industria del transporte, seguridad, logística, seguros, Fintech entre otros.
+              </p>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxiconductor&hl=es_EC">
+                <img
+                  src="img/4-01.png"
+                  style="max-width: 55%; height: auto;"
+                  class="rounded"
+                />
+              </a>
+              <p> 
+                <h5>Seguridad a toda hora</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad.Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
               </p>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -307,21 +319,10 @@
                 />
               </a>
               <p> 
-                <h3>HyperCar</h3><br><h5>Muevete inteligentemente</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad.Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
+                <h5>Muevete inteligentemente</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad. Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
               </p>
             </div>
-            <div class="col-lg-4 col-md-6">
-              <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxiconductor&hl=es_EC">
-                <img
-                  src="img/4-01.jpeg"
-                  style="max-width: 55%; height: auto;"
-                  class="rounded"
-                />
-              </a>
-              <p> 
-                <h3>HyperBus</h3><br><h5>Slogan</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad.Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
-              </p>
-            </div>
+            
           </div>
     </div>
   </div>
@@ -1488,7 +1489,12 @@
   <script src="js/main.js"></script>
 
   <!-- Código de instalación Cliengo para https://app-ht2.herokuapp.com/ --> 
-  <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5e176a09e4b06f5bfaf7b51c/5e176a0ae4b06f5bfaf7b51f.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
+  <script type="text/javascript">
+  (function () { var ldk = document.createElement('script'); 
+  ldk.type = 'text/javascript'; ldk.async = true; 
+  ldk.src = 'https://s.cliengo.com/weboptimizer/5e176a09e4b06f5bfaf7b51c/5e176a0ae4b06f5bfaf7b51f.js'; 
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();
+  </script>
 </body>
 
 </html>
