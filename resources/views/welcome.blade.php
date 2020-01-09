@@ -34,8 +34,6 @@
   <!-- Responsive Stylesheet File -->
   <link href="css/responsive.css" rel="stylesheet">
   <script async data-id="25301" src="https://cdn.widgetwhats.com/script.min.js"></script>
-  <script type="text/javascript" src="https://counter1.wheredoyoucomefrom.ovh/private/counter.js?c=629g965qnwh53rc3e355l6k2m5q6u7yb&down=async" async>
-  </script>
 </head>
 
 <body data-spy="scroll" data-target="#navbar-example">
@@ -208,11 +206,8 @@
     </div>
   </div>
   <!-- End Suscrive Area -->
-  <div id="sfc629g965qnwh53rc3e355l6k2m5q6u7yb"></div>
-  
-  <noscript><a href="https://www.freecounterstat.com" title="page view counter">
-    <img src="https://counter1.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=629g965qnwh53rc3e355l6k2m5q6u7yb" border="0" title="page view counter" alt="page view counter"></a>
-  </noscript>
+  <center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+    <img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://boxindian.com/'>Crossfit camas</a></center>
   <!-- our-skill-area start -->
   <div class="our-skill-area fix hidden-sm">
     <div class="test-overly"></div>
