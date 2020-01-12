@@ -268,7 +268,12 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
               <h2>Visitas</h2>
-              <center><img style="border: 0px solid; display: inline;width:20%;height:10%;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></center>
+              <center>
+                {{-- <a href="https://www.cerotec.net/estadisticas-130990/app-ht2.herokuapp.com" title="Gráficas y visitas"> --}}
+                  <img src="https://www.cerotec.net/contador.php?t=2&s=5&i=130990">
+                {{-- </a>  --}}
+              </center>
+              {{-- <center><img style="border: 0px solid; display: inline;width:20%;height:10%;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></center> --}}
             </div>
           </div>
         </div>                
