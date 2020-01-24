@@ -47,7 +47,9 @@
 
         <nav id="nav-menu-container">
           <ul class="nav-menu">
-            
+            <li>
+              <a href="{{url('/')}}">HyperMovilidad</a>
+            </li>
             <li class="menu-has-children">
               <a href="">Acceso web</a>
               <ul>

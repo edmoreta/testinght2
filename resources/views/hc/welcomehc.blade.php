@@ -55,6 +55,9 @@
             <li><a href="#screenshots">Screenshots</a></li>
             <li><a href="#team">Team</a></li>
             <li><a href="#pricing">Pricing</a></li> -->
+            <li>
+              <a href="{{url('/')}}">HyperMovilidad</a>
+            </li>
             <li class="menu-has-children">
               <a href="">Acceso web</a>
               <ul>

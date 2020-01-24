@@ -55,6 +55,9 @@
             <li><a href="#screenshots">Screenshots</a></li>
             <li><a href="#team">Team</a></li>
             <li><a href="#pricing">Pricing</a></li> -->
+            <li>
+              <a href="{{url('/')}}">HyperMovilidad</a>
+            </li>
             <li class="menu-has-children">
               <a href="">Acceso web</a>
               <ul>
@@ -141,13 +144,13 @@
               </p>
 
               <ul class="list-unstyled">
-                <li><i class="fa fa-angle-right"></i>Petición de taxi</li>
-                <li><i class="fa fa-angle-right"></i>Petición de pedidos</li>
-                <li><i class="fa fa-angle-right"></i>Historial de carreras</li>
-                <li><i class="fa fa-angle-right"></i>Calificación al conductor y el taxi</li>
-                <li><i class="fa fa-angle-right"></i>Compartir recorrido en el taxi</li>
-                <li><i class="fa fa-angle-right"></i>Direcciones favoritas</li>
-                <li><i class="fa fa-angle-right"></i>Botón de pánico con contactos de emergencia</li>
+                <li><i class="fa fa-angle-right"></i>Transmisión de datos cada 15 segundos</li>
+                <li><i class="fa fa-angle-right"></i>Control de tiempos entre puntos de control</li>
+                <li><i class="fa fa-angle-right"></i>Control de velocidad dentro de la ruta</li>
+                <li><i class="fa fa-angle-right"></i>Control por abandono de ruta</li>
+                <li><i class="fa fa-angle-right"></i>Cumplimiento de puntos prioritarios (Inicio en la mañana y final en la noche)</li>
+                <li><i class="fa fa-angle-right"></i>Control del relé de precalentamiento de motor</li>
+                <li><i class="fa fa-angle-right"></i>Módulo de registro para conductores y controladores</li>
               </ul>
             </div>
           </div>
