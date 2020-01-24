@@ -74,14 +74,15 @@
                     <a class="page-scroll" href="#about">Aplicaciones</a>
                   </li>
                   <li>
+                    <a class="page-scroll" href="#acerca">Quiénes Somos</a>
+                  </li>  
+                  <li>
                     <a class="page-scroll" href="#services">Servicios</a>
                   </li>
                   <li>
                     <a class="page-scroll" href="#funcionalidades">Funcionalidades</a>
                   </li>
-                  <li>
-                    <a class="page-scroll" href="#acerca">Acerca de</a>
-                  </li>                                    
+                                                    
                   <li>
                     <a class="page-scroll" href="#contact">Contáctanos</a>
                   </li>
@@ -292,7 +293,7 @@
           </div>
         <div class="row">
             <div class="col-lg-4 col-md-6">
-              <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxicliente&hl=es_EC">
+              <a target="" href="{{url('hypertaxi')}}">
                 <img
                   src="img/1-01.png"
                   style="max-width: 55%; height: auto;"
@@ -304,19 +305,7 @@
               </p>
             </div>
             <div class="col-lg-4 col-md-6">
-              <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxiconductor&hl=es_EC">
-                <img
-                  src="img/4-01.png"
-                  style="max-width: 55%; height: auto;"
-                  class="rounded"
-                />
-              </a>
-              <p> 
-                <h5>Seguridad a toda hora</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad.Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
-              </p>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxipropietario&hl=es_EC">
+              <a target="_blank" href="{{url('hypercar')}}">
                 <img
                   src="img/2-01.png"
                   style="max-width: 55%; height: auto;"
@@ -325,6 +314,18 @@
               </a>
               <p> 
                 <h5>Muevete inteligentemente</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad. Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
+              </p>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <a target="_blank" href="{{url('hyperbus')}}">
+                <img
+                  src="img/4-01.png"
+                  style="max-width: 55%; height: auto;"
+                  class="rounded"
+                />
+              </a>
+              <p> 
+                <h5>Seguridad a toda hora</h5><br>Sistema Inteligente para el Transporte Público de Pasajeros que permite el monitoreo de su flota de buses, control de tiempos y gestión de la recaudación.                
               </p>
             </div>
             
@@ -339,7 +340,7 @@
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="section-headline text-center">
-          {{-- <h2>Acerca de nosotros</h2> --}}
+          <h2>Quiénes Somos</h2>
         </div>
       </div>
     </div>
@@ -472,6 +473,93 @@
 </div>
 <!-- End Faq Area -->
 
+<!-- Start Service area -->
+<div id="funcionalidades" class="services-area area-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="section-headline services-head text-center">
+          <h2>Nuestra Empresa</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="services-contents">
+        <!-- Start Left services -->
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="about-move">
+            <div class="services-details">
+              <div class="single-services">
+                <a class="services-icon" href="#">
+                    <i ><img src="ht/img/svg/8.png" alt="img" class="img-fluid" /></i>
+                  </a>
+                <h4>9 ciudades del país</h4>
+                {{-- <p>
+                  will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                </p> --}}
+              </div>
+            </div>
+            <!-- end about-details -->
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="about-move">
+            <div class="services-details">
+              <div class="single-services">
+                <a class="services-icon" href="#">
+                    <i ><img src="ht/img/svg/9.png" alt="img" class="img-fluid" /></i>
+                  </a>
+                <h4>44 empresas</h4>
+                {{-- <p>
+                  will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                </p> --}}
+              </div>
+            </div>
+            <!-- end about-details -->
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <!-- end col-md-4 -->
+          <div class=" about-move">
+            <div class="services-details">
+              <div class="single-services">
+                <a class="services-icon" href="#">
+                    <i ><img src="ht/img/svg/10.png" alt="img" class="img-fluid" /></i>
+                  </a>
+                <h4>916 vehículos</h4>
+                {{-- <p>
+                  will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                </p> --}}
+              </div>
+            </div>
+            <!-- end about-details -->
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <!-- end col-md-4 -->
+          <div class=" about-move">
+            <div class="services-details">
+              <div class="single-services">
+                <a class="services-icon" href="#">
+                    <i ><img src="ht/img/svg/11.png" alt="img" class="img-fluid" /></i>
+                  </a>
+                <h4>1005 conductores</h4>
+                {{-- <p>
+                  will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                </p> --}}
+              </div>
+            </div>
+            <!-- end about-details -->
+          </div>
+        </div>
+        <!-- End Left services -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Service area -->
+
   <div class="a2a_kit a2a_kit_size_64 a2a_floating_style a2a_default_style" style="bottom:100px; right:10px;">
     <a class="" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxicliente&hl=es_EC">
       <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-store-app-logo-gets-a-slight-redesign-png-19.png" border="0" alt="Facebook" width="27" height="27">
@@ -542,144 +630,6 @@
     </div>
   </div>
   <!-- End About area -->
-
-  <!-- Start Service area -->
-  <div id="funcionalidades" class="services-area area-padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-          <div class="section-headline services-head text-center">
-            <h2>Funcionalidades</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row text-center">
-        <div class="services-contents">
-          <!-- Start Left services -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  <a class="services-icon" href="#">
-											<i ><img src="img/svg/1.png" alt="img" class="img-fluid" /></i>
-										</a>
-                  <h4>Control de flota</h4>
-                  {{-- <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p> --}}
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  <a class="services-icon" href="#">
-											<i ><img src="img/svg/2.png" alt="img" class="img-fluid" /></i>
-										</a>
-                  <h4>Despacho de carreras</h4>
-                  {{-- <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p> --}}
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <!-- end col-md-4 -->
-            <div class=" about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  <a class="services-icon" href="#">
-											<i ><img src="img/svg/3.png" alt="img" class="img-fluid" /></i>
-										</a>
-                  <h4>Mapas Geo-referenciados</h4>
-                  {{-- <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p> --}}
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <!-- end col-md-4 -->
-            <div class=" about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  <a class="services-icon" href="#">
-											<i ><img src="img/svg/4.png" alt="img" class="img-fluid" /></i>
-										</a>
-                  <h4>Reportes estadísticos</h4>
-                  {{-- <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p> --}}
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <!-- End Left services -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
-            <div class=" about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  <a class="services-icon" href="#">
-											<i ><img src="img/svg/5.png" alt="img" class="img-fluid" /></i>
-										</a>
-                  <h4>Alertas de radares</h4>
-                  {{-- <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p> --}}
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <!-- End Left services -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
-            <div class=" about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  <a class="services-icon" href="#">
-											<i ><img src="img/svg/6.png" alt="img" class="img-fluid" /></i>
-										</a>
-                  <h4>Alertas de auxilio comunitaria</h4>
-                  {{-- <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p> --}}
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-              <!-- end col-md-4 -->
-              <div class=" about-move">
-                <div class="services-details">
-                  <div class="single-services">
-                    <a class="services-icon" href="#">
-                        <img src="img/svg/7.png" alt="img" class="img-fluid" />
-                      </a>
-                    <h4>Alertas de zonas peligrosas</h4>
-                    {{-- <p>
-                      will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                    </p> --}}
-                  </div>
-                </div>
-                <!-- end about-details -->
-              </div>
-            </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End Service area -->
 
   <!-- Start Wellcome Area -->
   {{-- <div class="wellcome-area">
