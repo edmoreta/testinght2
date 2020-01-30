@@ -71,7 +71,7 @@
                     <a class="page-scroll" href="#home">Inicio</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#about">Productos</a>
+                    <a class="page-scroll" href="#productos">Productos</a>
                   </li>
                   <li>
                     <a class="page-scroll" href="#acerca">Quiénes Somos</a>
@@ -93,13 +93,13 @@
                       <li><a href="#">HyperBus</a></li>
                     </ul> 
                   </li>   
-                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Web<span class="caret"></span></a>
+                  {{-- <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Web<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                       <li><a href="http://hypertaxi.hypermovilidad.com/publico/cliente">Monitoreo</a></li>
                       <li><a href="http://hypertaxi.hypermovilidad.com/">HyperTaxi</a></li>
                       <li><a href="http://hyperbus.hypermovilidad.com/hyperbus/tunel/resuelve/">HyperBus</a></li>
                     </ul> 
-                  </li>                                  
+                  </li>                                   --}}
                 </ul>
               </div>
               <!-- navbar-collapse -->
@@ -120,6 +120,7 @@
         <img src="img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
         <img src="img/slider/slider2.png" alt="" title="#slider-direction-2" />
         <img src="img/slider/slider3.png" alt="" title="#slider-direction-3" />
+        <img src="img/slider/slider4.png" alt="" title="#slider-direction-4" />
       </div>
 
       <!-- direction 1 -->
@@ -207,7 +208,7 @@
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
           <div class="suscribe-text text-center">
             <h3>Bienvenido a HyperMovilidad</h3>
-            <a class="sus-btn" href="#">Contáctanos</a>
+            <a class="sus-btn" href="#contact">Contáctanos</a>
           </div>
         </div>
       </div>
@@ -269,27 +270,9 @@
     </div>
   </div>
   <!-- our-skill-area end -->    
-  
-  <div id="about" class="apps about-area area-padding">  
-    <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="section-headline text-center">
-              <h2>Visitas</h2>
-              <center>
-                {{-- <a href="https://www.cerotec.net/estadisticas-130990/app-ht2.herokuapp.com" title="Gráficas y visitas"> --}}
-                  <img src="https://www.cerotec.net/contador.php?t=2&s=5&i=130990">
-                {{-- </a>  --}}
-              </center>
-              {{-- <center><img style="border: 0px solid; display: inline;width:20%;height:10%;" alt="" src="http://www.websmultimedia.com/contador-de-visitas.php?id=276192"></center> --}}
-            </div>
-          </div>
-        </div>                
-    </div>
-  </div>
 
   <!-- Start About area -->
-  <div id="about" class="apps about-area area-padding">  
+  <div id="productos" class="apps about-area area-padding">  
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -340,6 +323,22 @@
     </div>
   </div>
   <!-- End About area -->
+
+  <div id="" class="apps about-area area-padding">  
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="section-headline text-center">
+              <h2>Visitas</h2>
+              <center>
+                  <img src="https://www.cerotec.net/contador.php?t=2&s=8&i=130990" alt="">
+              </center>              
+                
+            </div>
+          </div>
+        </div>                
+    </div>
+  </div>
 
 <!-- Faq area start -->
 <div id="acerca" class="faq-area area-padding">
@@ -1255,7 +1254,7 @@
               <div class="single-icon">
                 <i class="fa fa-map-marker"></i>
                 <p>
-                  Dirección: Simón Bolivar 817 y Pedro Moncayo<br>
+                  Dirección: Av. Ricardo Sánchez 812 y Sánchez y Cifuentes. Esquina<br>
                   <span>Ibarra, Ecuador</span>
                 </p>
               </div>
@@ -1392,7 +1391,7 @@
               <div class="footer-head">
                 <h4>Información</h4>
                 <p>
-                    Simón Bolivar 817 y Pedro Moncayo. Ibarra, Ecuador
+                  Av. Ricardo Sánchez 812 y Sánchez y Cifuentes. Esquina. Ibarra, Ecuador
                 </p>
                 <div class="footer-contacts">
                   <p><span>Telf:</span> +593 98 465 5141</p>
