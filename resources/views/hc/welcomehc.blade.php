@@ -118,7 +118,7 @@
     <!--==========================
     Get Started Section
   ============================-->
-    <section id="get-started" class="padd-section text-center wow fadeInUp">
+    {{-- <section id="get-started" class="padd-section text-center wow fadeInUp"> --}}
       <!-- <div class="container">
         <div class="card full-height">
           <div class="card-body">
@@ -316,9 +316,9 @@
         </div>
       </div> --}}
 
-      <br />
+      {{-- <br /> --}}
       
-    </section>
+    {{-- </section> --}}
 
     <!--==========================
     About Us Section
@@ -327,7 +327,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-5 col-lg-3">
-            <img src="hc/img/about-img.png" alt="About" />
+            <img src="hc/img/hc1.png" alt="About" />
           </div>
 
           <div class="col-md-7 col-lg-5">
@@ -348,6 +348,148 @@
               </ul>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+<!--==========================
+    About Us Section
+  ============================-->
+  <section id="about-us" class="about-us padd-section wow fadeInUp">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-5 col-lg-5">
+          <div class="about-content">           
+            <ul class="list-unstyled">
+              <li><i class="fa fa-angle-right"></i><b>Ubición en línea:</b> tu vehículo en el mapa y comparte la ubicación vía SMS, WhatsApp o Facebook.</li>
+              <li><i class="fa fa-angle-right"></i><b>Bloqueo preventivo:</b> Bloquea el encendido de tu automóvil.</li>
+              <li><i class="fa fa-angle-right"></i>Mide los <b>excesos de velocidad</b>, <b>aceleraciones</b> y <b>frenados bruscos</b>.</li>
+              <li><i class="fa fa-angle-right"></i><b>Comparte tu ubicación</b> y recorridos para que sepan que estás <b>seguro</b>.</li>
+              <li><i class="fa fa-angle-right"></i>Con <b>historial de viajes</b> genera un archivo detallado de todos los viajes con calles y velocidades muy precisas de cada minuto recorrido.</li>
+              <li><i class="fa fa-angle-right"></i>Aplican restricciones, <b>apertura de puertas</b> disponible únicamente en vehículos con sistema de bloqueo central.</li>              
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-md-7 col-lg-7">
+          <ul><br><br><br><br>
+          <center>
+          <img src="hc/img/hc3.png" alt="" style="width: 90%; height: auto;" />
+          </center>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+    Get Started Section
+  ============================-->
+  <section id="get-started" class="padd-section text-center wow fadeInUp">
+  
+      <div class="container">
+        <div class="row">
+  
+          <div class="col-md-6 col-lg-6">
+            <div class="feature-block">
+  
+              <img src="hc/img/svg/cloud.svg" alt="imagen" class="img-fluid">
+              <h4>Tecnología de punta</h4>
+              <ul style="text-align: left">
+                <li>Solución multivehículo para que puedas visualizar todos tus vehículos en la misma App</li>
+                <li>Monitorea y accede a todas las funcionalidades y servicios desde la misma cuenta</li>
+                <li>Comparte tu cuenta con otros usuarios HyperCar, entre tu familia o amigos</li>
+              </ul>
+  
+            </div>
+          </div>
+  
+          <div class="col-md-6 col-lg-6">
+            <div class="feature-block">
+  
+              <img src="hc/img/svg/planet.svg" alt="imagen" class="img-fluid">
+              <h4>GPS 3G Inteligente</h4>
+              <ul style="text-align: left">
+                <li>Lectura de posición cada segundo y transmisión cada minuto</li>
+                <li>Precisión de posición GPS menor a 2.5 m</li>
+                <li>Sensor de movimiento</li>
+                <li>Batería de respaldo interna</li>
+                <li>Soporte de varios sensores</li>
+                <li>Memoria de almacenamiento</li>
+              </ul>
+  
+            </div>
+          </div>         
+  
+        </div>
+      </div>
+  
+    </section>
+
+    <!--==========================
+    About Us Section
+  ============================-->
+  <section id="about-us" class="about-us padd-section wow fadeInUp">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md-7 col-lg-7">
+            <br><br><br>
+            <img src="hc/img/hc4.jpg" alt="" style="width: 90%; height: auto;" />
+          </div>
+
+          <div class="col-md-5 col-lg-5">
+            <div class="about-content">
+              <h2><span>Evita el robo de tu auto, bloquéalo</span></h2>
+              <p>
+                  Sabemos que tu auto es una de tus inversiones más importantes y lo mucho que deseas protegerlo. 
+                  Por eso, HyperCar te permite contar con varias funciones para incrementar la seguridad de tu 
+                  vehículo desde tu celular, a través de la App.
+              </p>
+              <p>
+                  Podrás bloquear el encendido con un código de seguridad para un mejor control, enterarte de 
+                  movimientos no esperados con Safe Parking, recibir alertas de encendido y desconexión de la batería
+                   y en caso de que tu auto fuera robado, puedes activar la función reporte por robo para que nuestro 
+                   equipo de soporte 24 horas active el protocolo de recuperación con la policía nacional.
+              </p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--==========================
+    About Us Section
+  ============================-->
+  <section id="about-us" class="about-us padd-section wow fadeInUp">
+      <div class="container">
+        <div class="row justify-content-center">
+          
+          <div class="col-md-5 col-lg-5">
+            <div class="about-content">
+              <h2><span>Abre las puertas de tu auto remotamente</span></h2>
+              <p>
+                  ¿Olvidaste las llaves dentro de tu auto? No te preocupes, a todos nos ha pasado. 
+                  Por suerte con HyperCar puedes abrir las puertas desde tu teléfono celular, 
+                  ilimitadamente ¡las veces que necesites!
+              </p>
+              <p>
+                  Esta función te permite desbloquear los seguros de las puertas fácil y rápido 
+                  desde la App, con un código de seguridad para un mejor control.
+              </p>
+
+              <p>
+                  Olvídate de llamadas, trámites engorrosos o servicios con un límite de aperturas, 
+                  nuestra App te ahorrará tiempo y te da la tranquilidad de controlar tu auto todo el tiempo.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-7 col-lg-7">
+            <br><br><br>
+            <img src="hc/img/hc6.jpg" alt="" style="width: 90%; height: auto;" />
+          </div>
+
         </div>
       </div>
     </section>

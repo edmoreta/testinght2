@@ -71,7 +71,7 @@
                     <a class="page-scroll" href="#home">Inicio</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#about">Aplicaciones</a>
+                    <a class="page-scroll" href="#about">Productos</a>
                   </li>
                   <li>
                     <a class="page-scroll" href="#acerca">Quiénes Somos</a>
@@ -86,11 +86,18 @@
                   <li>
                     <a class="page-scroll" href="#contact">Contáctanos</a>
                   </li>
+                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Clientes<span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="#">HyperTaxi</a></li>
+                      <li><a href="#">HyperCar</a></li>
+                      <li><a href="#">HyperBus</a></li>
+                    </ul> 
+                  </li>   
                   <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Web<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
-                      <li><a href="http://hypertaxi.hypermovilidad.com/publico/cliente">Cliente</a></li>
-                      <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario">Propietario</a></li>
-                      <li><a href="http://hypertaxi.hypermovilidad.com/tunel/resuelve">Gestión</a></li>
+                      <li><a href="http://hypertaxi.hypermovilidad.com/publico/cliente">Monitoreo</a></li>
+                      <li><a href="http://hypertaxi.hypermovilidad.com/">HyperTaxi</a></li>
+                      <li><a href="http://hyperbus.hypermovilidad.com/hyperbus/tunel/resuelve/">HyperBus</a></li>
                     </ul> 
                   </li>                                  
                 </ul>
@@ -110,7 +117,7 @@
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
       <div id="ensign-nivoslider" class="slides">
-        <img src="img/slider/slider1.png" alt="" title="#slider-direction-1" />
+        <img src="img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
         <img src="img/slider/slider2.png" alt="" title="#slider-direction-2" />
         <img src="img/slider/slider3.png" alt="" title="#slider-direction-3" />
       </div>
@@ -132,7 +139,7 @@
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
                   <a class="ready-btn right-btn page-scroll" href="#services">Servicios</a>
-                  <a class="ready-btn page-scroll" href="#about">Aplicaciones</a>
+                  <a class="ready-btn page-scroll" href="#about">Productos</a>
                 </div>
               </div>
             </div>
@@ -287,7 +294,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="section-headline text-center">
-                <h2>Aplicaciones</h2>
+                <h2>Productos</h2>
               </div>
             </div>
           </div>
@@ -301,7 +308,7 @@
                 />
               </a>
               <p>
-                <h5>Viaja diferente</h5><br> HyperMovilidad es una compañía especializada en desarrollar tecnología telemática y nuevos modelos de negocio a través del Internet of Things (IoT) para la industria del transporte, seguridad, logística, seguros, Fintech entre otros.
+                <h5>Viaja diferente</h5><br> Permite al público en general pedir taxis a nivel nacional Ecuador. Además, el usuario podrá guardar los sitios más frecuentes en los que necesite el servicio, como un acceso un rápido.
               </p>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -414,14 +421,14 @@
               <div class="event-content head-team">
                 <h4>HyperTaxi</h4>
                 <p>
-                    <ul>
-                      <li>Petición de taxi</li>
-                      <li>Petición de pedidos</li>
-                      <li>Historial de carreras</li>
-                      <li>Calificación al conductor y el taxi</li>
-                      <li>Compartir recorrido en el taxi</li>
-                      <li>Direcciones favoritas</li>
-                      <li>Botón de pánico con contactos de emergencia</li>
+                    <ul style="margin-left: 10%">
+                      <li type="square">Control de flota</li>
+                      <li type="square">Despacho de carreras</li>
+                      <li type="square">Mapas Geo-Referenciados</li>
+                      <li type="square">Reportes estadísticos</li>
+                      <li type="square">Alertas de auxilio comunitarias</li>
+                      <li type="square">Alertas de zonas peligrosas</li>
+                      <li type="square">Alertas de radares</li>
                     </ul>              
                 </p>                 
               </div>
@@ -430,16 +437,16 @@
           <div class="tab-pane" id="p-view-2">
             <div class="tab-inner">
               <div class="event-content head-team">
-                <h4>HyperTaxi Conductor</h4>
+                <h4>HyperCar</h4>
                 <p>
-                    <ul>
-                      <li>Atención de peticiones de taxi</li>
-                      <li>Auto despacho</li>
-                      <li>Chat con el cliente</li>
-                      <li>Historial de carreras</li>
-                      <li>Calificación de conductor y el taxi</li>
-                      <li>Calificar al cliente</li>
-                      <li>Alertas</li>
+                    <ul style="margin-left: 10%">
+                      <li type="square">Control de vehículo</li>
+                      <li type="square">Rastreo Satelital</li>
+                      <li type="square">Apertura remota de puertas</li>
+                      <li type="square">Bloqueo y desbloqueo del motor</li>
+                      <li type="square">Botón de panico</li>
+                      <li type="square">Alertas de radares</li>
+                      <li type="square">Notificaciones entrada y salida de la ciudad</li>
                     </ul>              
                 </p>  
                
@@ -449,18 +456,17 @@
           <div class="tab-pane" id="p-view-3">
             <div class="tab-inner">
               <div class="event-content head-team">
-                <h4>HyperTaxi Propietario</h4>
+                <h4>HyperBus</h4>
                 <p>
-                    <ul>
-                        <li>Ubicación del taxi</li>
-                        <li>Reporte de recorrido</li>
-                        <li>Historial de carreras</li>
-                        
-                        <li>Historial de carreras</li>
-                        <li>Calificación de conductor y el taxi</li>
-                        <li>Calificar al cliente</li>
-                        <li>Alertas</li>
-                      </ul>
+                    <ul style="margin-left: 10%">
+                        <li type="square">Transmisión de datos cada 15 segundos</li>
+                        <li type="square">Control de tiempos entre puntos de control</li>
+                        <li type="square">Control de velocidad dentro de la ruta</li>
+                        <li type="square">Control por abandono de ruta</li>
+                        <li type="square">Cumplimiento de puntos prioritarios (Inicio en la mañana y final en la noche)</li>
+                        <li type="square">Control del relé de precalentamiento de motor</li>
+                        <li type="square">Módulo de registro para conductores y controladores</li>                        
+                    </ul>
                 </p>                
               </div>
             </div>
@@ -621,6 +627,12 @@
                   <li>
                       <i class="fa fa-check"></i> Botón de pánico con contactos de emergencia
                     </li>
+                <li>
+                  <i class="fa fa-check"></i> Instalaciones eléctricas
+                </li>
+                <li>
+                  <i class="fa fa-check"></i> Vigilancia y domótica
+                </li>
               </ul>
             </div>
           </div>
