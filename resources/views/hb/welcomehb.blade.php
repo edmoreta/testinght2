@@ -8,7 +8,7 @@
     <meta content="" name="description" />
 
     <!-- Favicons -->
-    <link href="hb/img/1-01.png" rel="icon" />
+    <link href="hb/img/hyperbus.png" rel="icon" />
     <link href="hb/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
