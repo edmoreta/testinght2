@@ -60,8 +60,7 @@
             </li>
             <li class="menu-has-children">
               <a href="">Acceso web</a>
-              <ul>
-                <li><a href="http://hypertaxi.hypermovilidad.com/publico/cliente">Cliente</a></li>
+              <ul>                
                 <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario">Propietario</a></li>
                 <li><a href="http://hypertaxi.hypermovilidad.com/tunel/resuelve">Gestión</a></li>
               </ul>
@@ -140,7 +139,7 @@
             <div class="about-content">
               <h2><span>HyperBus</span></h2>
               <p>
-                Expertos en rastreo satelital
+                Seguridad a toda hora
               </p>
 
               <ul class="list-unstyled">
@@ -175,7 +174,7 @@
           <div class="col-md-6 col-lg-3">
             <div class="feature-block">
               <img src="hb/img/svg/1.png" alt="img" class="img-fluid" />
-              <h4>Control de flota</h4>
+              <h4>Transmisión de datos cada 15 segundos</h4>
               <!-- <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry
@@ -186,7 +185,7 @@
           <div class="col-md-6 col-lg-3">
             <div class="feature-block">
               <img src="hb/img/svg/2.png" alt="img" class="img-fluid" />
-              <h4>Despacho de carreras</h4>
+              <h4>Control de tiempos entre puntos de control</h4>
               <!-- <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry
@@ -197,7 +196,7 @@
           <div class="col-md-6 col-lg-3">
             <div class="feature-block">
               <img src="hb/img/svg/3.png" alt="img" class="img-fluid" />
-              <h4>Mapas Geo-referenciados</h4>
+              <h4>Control de velocidad dentro de la ruta</h4>
               <!-- <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry
@@ -208,7 +207,7 @@
           <div class="col-md-6 col-lg-3">
             <div class="feature-block">
               <img src="hb/img/svg/4.png" alt="img" class="img-fluid" />
-              <h4>Reportes estadísticos</h4>
+              <h4>Control por abandono de ruta</h4>
               <!-- <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry
@@ -219,7 +218,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="feature-block">
               <img src="hb/img/svg/5.png" alt="img" class="img-fluid" />
-              <h4>Alertas de auxilio comunitaria</h4>
+              <h4>Cumplimiento de puntos prioritarios (Inicio en la mañana y final en la noche)</h4>
               <!-- <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry
@@ -234,7 +233,7 @@
                 alt="img"
                 class="img-fluid"
               />
-              <h4>Alertas de zonas peligrosas</h4>
+              <h4>Control del relé de precalentamiento de motor</h4>
               <!-- <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry
@@ -245,7 +244,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="feature-block">
               <img src="hb/img/svg/7.png" alt="img" class="img-fluid" />
-              <h4>Alertas de radares</h4>
+              <h4>Módulo de registro para conductores y controladores</h4>
               <!-- <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry
@@ -622,7 +621,7 @@
             <div class="info">
               <div>
                 <i class="fa fa-map-marker"></i>
-                <p>Simón Bolivar 817 y Pedro Moncayo<br />Ibarra, Ecuador</p>
+                <p>Av. Ricardo Sánchez 812 y Sánchez y Cifuentes. Esquina<br />Ibarra, Ecuador</p>
               </div>
 
               <div class="email">

@@ -323,23 +323,7 @@
     </div>
   </div>
   <!-- End About area -->
-
-  <div id="" class="apps about-area area-padding">  
-    <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="section-headline text-center">
-              <h2>Visitas</h2>
-              <center>
-                  <img src="https://www.cerotec.net/contador.php?t=2&s=8&i=130990" alt="">
-              </center>              
-                
-            </div>
-          </div>
-        </div>                
-    </div>
-  </div>
-
+  
 <!-- Faq area start -->
 <div id="acerca" class="faq-area area-padding">
   <div class="container">
@@ -1127,7 +1111,7 @@
               </div>
               <div class="blog-text">
                 <h4>
-                                        <a href="blog.html">Assumenda repud eum veniam</a>
+                    <a href="blog.html">Assumenda repud eum veniam</a>
 									</h4>
                 <p>
                   Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
@@ -1267,7 +1251,8 @@
           <div class="col-md-6 col-sm-6 col-xs-12">
             <!-- Start Map -->
             {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe> --}}
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.872172124128!2d-78.11979324208006!3d0.3489051999363715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2a3cb62ff16f25%3A0xb3a4efa09335367c!2sSim%C3%B3n%20Bol%C3%ADvar%208-11%2C%20Ibarra!5e0!3m2!1ses-419!2sec!4v1576710812921!5m2!1ses-419!2sec" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.872172124128!2d-78.11979324208006!3d0.3489051999363715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2a3cb62ff16f25%3A0xb3a4efa09335367c!2sSim%C3%B3n%20Bol%C3%ADvar%208-11%2C%20Ibarra!5e0!3m2!1ses-419!2sec!4v1576710812921!5m2!1ses-419!2sec" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe> --}}
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7494177877898!2d-78.12477408524664!3d0.33672809975432993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2a3df7a1656305%3A0x2f04e3771e08cbc3!2sHYPERMOVILIDAD%20C%C3%8DA.%20LTDA.!5e0!3m2!1ses-419!2sec!4v1580444358652!5m2!1ses-419!2sec" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             <!-- End Map -->
           </div>
           <!-- End Google Map -->

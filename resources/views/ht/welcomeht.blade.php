@@ -627,7 +627,7 @@
             <div class="info">
               <div>
                 <i class="fa fa-map-marker"></i>
-                <p>Simón Bolivar 817 y Pedro Moncayo<br />Ibarra, Ecuador</p>
+                <p>Av. Ricardo Sánchez 812 y Sánchez y Cifuentes. Esquina<br />Ibarra, Ecuador</p>
               </div>
 
               <div class="email">

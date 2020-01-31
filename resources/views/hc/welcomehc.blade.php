@@ -60,8 +60,7 @@
             </li>
             <li class="menu-has-children">
               <a href="">Acceso web</a>
-              <ul>
-                <li><a href="http://hypertaxi.hypermovilidad.com/publico/cliente">Cliente</a></li>
+              <ul>                
                 <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario">Propietario</a></li>
                 <li><a href="http://hypertaxi.hypermovilidad.com/tunel/resuelve">Gestión</a></li>
               </ul>
@@ -334,7 +333,7 @@
             <div class="about-content">
               <h2><span>HyperCar</span></h2>
               <p>
-                Expertos en rastreo satelital
+                Muevete inteligentemente
               </p>
 
               <ul class="list-unstyled">
@@ -393,7 +392,7 @@
           <div class="col-md-6 col-lg-6">
             <div class="feature-block">
   
-              <img src="hc/img/svg/cloud.svg" alt="imagen" class="img-fluid">
+              <img src="hc/img/svg/pc.png" alt="imagen" class="img-fluid">
               <h4>Tecnología de punta</h4>
               <ul style="text-align: left">
                 <li>Solución multivehículo para que puedas visualizar todos tus vehículos en la misma App</li>
@@ -407,7 +406,7 @@
           <div class="col-md-6 col-lg-6">
             <div class="feature-block">
   
-              <img src="hc/img/svg/planet.svg" alt="imagen" class="img-fluid">
+              <img src="hc/img/svg/gps.png" alt="imagen" class="img-fluid">
               <h4>GPS 3G Inteligente</h4>
               <ul style="text-align: left">
                 <li>Lectura de posición cada segundo y transmisión cada minuto</li>
@@ -993,7 +992,7 @@
             <div class="info">
               <div>
                 <i class="fa fa-map-marker"></i>
-                <p>Simón Bolivar 817 y Pedro Moncayo<br />Ibarra, Ecuador</p>
+                <p>Av. Ricardo Sánchez 812 y Sánchez y Cifuentes. Esquina<br />Ibarra, Ecuador</p>
               </div>
 
               <div class="email">
