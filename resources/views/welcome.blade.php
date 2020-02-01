@@ -88,9 +88,9 @@
                   </li>
                   <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Clientes<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
-                      <li><a href="#">HyperTaxi</a></li>
-                      <li><a href="#">HyperCar</a></li>
-                      <li><a href="#">HyperBus</a></li>
+                      <li><a href="http://hypertaxi.hypermovilidad.com/">HyperTaxi</a></li>
+                      <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario/">HyperCar</a></li>
+                      <li><a href="http://hyperbus.hypermovilidad.com/hyperbus/tunel/resuelve/">HyperBus</a></li>
                     </ul> 
                   </li>   
                   {{-- <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Web<span class="caret"></span></a>
@@ -1380,6 +1380,8 @@
                 </p>
                 <div class="footer-contacts">
                   <p><span>Telf:</span> +593 98 465 5141</p>
+                  <p><span>Atención al cliente:</span> (06) 2950 570, +593 98 923 4317</p>
+                  <p><span>Soporte técnico:</span> +593 99 859 0817</p>
                   <p><span>Email:</span> info@hypermovilidad.com</p>
                   <p><span>Horario:</span> Lunes a Sábado 7am-10pm</p>
                 </div>

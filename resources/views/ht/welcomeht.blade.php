@@ -81,7 +81,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxipropietario&hl=es_EC">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxiconductor&hl=es_EC">
               <img
                 src="ht/img/3-01.png"
                 style="max-width: 55%; height: auto;"
@@ -90,7 +90,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxiconductor&hl=es_EC">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.vecitaxipropietario&hl=es_EC">
               <img
                 src="ht/img/2-01.png"
                 style="max-width: 55%; height: auto;"
@@ -638,6 +638,8 @@
               <div>
                 <i class="fa fa-phone"></i>
                 <p>+593 98 465 5141</p>
+                <p><span>Atención al cliente</span> <br>(06) 2950 570 <br> +593 98 923 4317</p>
+                <p><span>Soporte técnico</span> <br> +593 99 859 0817</p>
               </div>
             </div>
 

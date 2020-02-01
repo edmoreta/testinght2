@@ -632,6 +632,8 @@
               <div>
                 <i class="fa fa-phone"></i>
                 <p>+593 98 465 5141</p>
+                <p><span>Atención al cliente</span> <br>(06) 2950 570 <br> +593 98 923 4317</p>
+                <p><span>Soporte técnico</span> <br> +593 99 859 0817</p>
               </div>
             </div>
 
