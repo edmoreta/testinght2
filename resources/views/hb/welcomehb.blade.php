@@ -122,6 +122,34 @@
     Get Started Section
   ============================-->
     <section id="get-started" class="padd-section text-center wow fadeInUp">
+      <div class="container">
+        <div class="card full-height">
+          <div class="card-body">
+            <div class="card-title"><h1>Productividad</h1></div>
+
+            <div class="counter">
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="employees">
+                      <p class="counter-count">6444</p>
+                      <p class="employee-p">despachos hasta la fecha</p>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="customer">
+                      <p class="counter-count">0</p>
+                      <p class="customer-p">despachos del día</p>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
     </section>
 
@@ -293,6 +321,49 @@
       </div>
     </section>
 
+    <section id="features" class="padd-section text-center wow fadeInUp">
+      <div class="container">
+        <div class="section-title text-center">
+          <h2>Nuestra empresa</h2>
+          
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-lg-3">
+            <div class="feature-block">
+              <img src="ht/img/svg/8.png" alt="img" class="img-fluid" />
+              <h4>2 ciudades</h4>
+              
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3">
+            <div class="feature-block">
+              <img src="ht/img/svg/9.png" alt="img" class="img-fluid" />
+              <h4>4 empresas</h4>              
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3">
+            <div class="feature-block">
+              <img src="ht/img/svg/10.png" alt="img" class="img-fluid" />
+              <h4>28 vehículos</h4>             
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3">
+            <div class="feature-block">
+              <img src="ht/img/svg/11.png" alt="img" class="img-fluid" />
+              <h4>94 conductores</h4>
+              
+            </div>
+          </div>         
+        </div>
+      </div>
+    </section>
+    
     <div class="container">
       <!-- Grid row -->
       <div class="row">

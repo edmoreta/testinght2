@@ -291,7 +291,7 @@
                 />
               </a>
               <p>
-                <h5>Viaja diferente</h5><br> Permite al público en general pedir taxis a nivel nacional Ecuador. Además, el usuario podrá guardar los sitios más frecuentes en los que necesite el servicio, como un acceso un rápido.
+                <h5>Viaja diferente</h5><br> Permite al público en general pedir taxis a nivel nacional Ecuador. Además, el usuario podrá guardar los sitios más frecuentes en los que necesite el servicio, como un acceso un rápido. <br><a href="{{url('hypertaxi')}}">Conoce más...</a>
               </p>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -303,7 +303,7 @@
                 />
               </a>
               <p> 
-                <h5>Muevete inteligentemente</h5><br>Somos Impulsores de tecnología inteligente, para una movilidad con más información y seguridad. Buscamos generar experiencias de auto conectado y seguro para satisfacer las necesidades de nuestros clientes.
+                <h5>¡Tu auto, siempre a tu lado!</h5><br>Con HyperCar ubica tu auto en tiempo real, apaga el motor y abre las puertas remotamente, avisa a tu familia en caso de emergencia y mucho más desde la palma de tu mano las 24 horas. <br><a href="{{url('hypercar')}}">Ver más...</a>
               </p>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -315,7 +315,7 @@
                 />
               </a>
               <p> 
-                <h5>Seguridad a toda hora</h5><br>Sistema Inteligente para el Transporte Público de Pasajeros que permite el monitoreo de su flota de buses, control de tiempos y gestión de la recaudación.                
+                <h5>Seguridad a toda hora</h5><br>Sistema Inteligente para el Transporte Público de Pasajeros que permite el monitoreo de su flota de buses, control de tiempos y gestión de la recaudación. <br><a href="{{url('hyperbus')}}">Ver más...</a>
               </p>
             </div>
             
@@ -360,12 +360,12 @@
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h4 class="check-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#check2">
+                    <a data-toggle="collapse" class="active" data-parent="#accordion" href="#check2">
                       <span class="acc-icons"></span> Visión
                     </a>
                   </h4>
               </div>
-              <div id="check2" class="panel-collapse collapse">
+              <div id="check2" class="panel-collapse collapse in">
                 <div class="panel-body">
                   <p>
                       HyperMovilidad se proyecta a convertirse 
