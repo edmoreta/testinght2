@@ -1009,9 +1009,9 @@
             </div>
 
             <div class="social-links">
-              <a href="https://twitter.com/vecitaxi" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="https://www.facebook.com/vecitaxi" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="https://www.instagram.com/vecitaxi/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>              
+              {{-- <a href="https://twitter.com/vecitaxi" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a> --}}
+              <a href="https://www.facebook.com/hypercarEC/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+              {{-- <a href="https://www.instagram.com/vecitaxi/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>               --}}
             </div>
           </div>
 

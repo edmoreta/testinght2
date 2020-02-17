@@ -88,9 +88,9 @@
                   </li>
                   <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Clientes<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
-                      <li><a href="http://hypertaxi.hypermovilidad.com/">HyperTaxi</a></li>
-                      <li><a href="http://hypertaxi.hypermovilidad.com/publico/propietario/">HyperCar</a></li>
-                      <li><a href="http://hyperbus.hypermovilidad.com/hyperbus/tunel/resuelve/">HyperBus</a></li>
+                      <li><a target="_blank" href="http://hypertaxi.hypermovilidad.com/">HyperTaxi</a></li>
+                      <li><a target="_blank" href="http://hypertaxi.hypermovilidad.com/publico/propietario/">HyperCar</a></li>
+                      <li><a target="_blank" href="http://hyperbus.hypermovilidad.com/hyperbus/tunel/resuelve/">HyperBus</a></li>
                     </ul> 
                   </li>   
                   {{-- <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceso Web<span class="caret"></span></a>
@@ -291,7 +291,7 @@
                 />
               </a>
               <p>
-                <h5>Viaja diferente</h5><br> Permite al público en general pedir taxis a nivel nacional Ecuador. Además, el usuario podrá guardar los sitios más frecuentes en los que necesite el servicio, como un acceso un rápido. <br><a href="{{url('hypertaxi')}}">Conoce más...</a>
+                <h5>Viaja diferente</h5><br> Permite al público en general pedir taxis a nivel nacional Ecuador. Además, el usuario podrá guardar los sitios más frecuentes en los que necesite el servicio, como un acceso un rápido. <br><a target="_blank" href="{{url('hypertaxi')}}">Ver más...</a>
               </p>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -303,7 +303,7 @@
                 />
               </a>
               <p> 
-                <h5>¡Tu auto, siempre a tu lado!</h5><br>Con HyperCar ubica tu auto en tiempo real, apaga el motor y abre las puertas remotamente, avisa a tu familia en caso de emergencia y mucho más desde la palma de tu mano las 24 horas. <br><a href="{{url('hypercar')}}">Ver más...</a>
+                <h5>¡Tu auto, siempre a tu lado!</h5><br>Con HyperCar ubica tu auto en tiempo real, apaga el motor y abre las puertas remotamente, avisa a tu familia en caso de emergencia y mucho más desde la palma de tu mano las 24 horas. <br><a target="_blank" href="{{url('hypercar')}}">Ver más...</a>
               </p>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -315,7 +315,7 @@
                 />
               </a>
               <p> 
-                <h5>Seguridad a toda hora</h5><br>Sistema Inteligente para el Transporte Público de Pasajeros que permite el monitoreo de su flota de buses, control de tiempos y gestión de la recaudación. <br><a href="{{url('hyperbus')}}">Ver más...</a>
+                <h5>Seguridad a toda hora</h5><br>Sistema Inteligente para el Transporte Público de Pasajeros que permite el monitoreo de su flota de buses, control de tiempos y gestión de la recaudación. <br><a target="_blank" href="{{url('hyperbus')}}">Ver más...</a>
               </p>
             </div>
             
@@ -550,7 +550,7 @@
 <!-- End Service area -->
 
   <div class="a2a_kit a2a_kit_size_64 a2a_floating_style a2a_default_style" style="bottom:100px; right:10px;">
-    <a class="" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxicliente&hl=es_EC">
+    <a class="" target="_blank" href="https://play.google.com/store/apps/details?id=com.hypermovilidad.hypertaxicliente&hl=es_EC">
       <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-store-app-logo-gets-a-slight-redesign-png-19.png" border="0" alt="Facebook" width="27" height="27">
     </a>  
   </div>
@@ -1357,14 +1357,14 @@
                 <div class="footer-icons">
                   <ul>
                     <li>
-                      <a href="https://www.facebook.com/vecitaxi" target="_blank"><i class="fa fa-facebook"></i></a>
+                      <a href="https://www.facebook.com/hypermovilidad/" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
-                    <li>
+                    {{-- <li>
                       <a href="https://twitter.com/vecitaxi" target="_blank"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li>
                       <a href="https://www.instagram.com/vecitaxi/" target="_blank"><i class="fa fa-instagram"></i></a>
-                    </li>                    
+                    </li>                     --}}
                   </ul>
                 </div>
               </div>
